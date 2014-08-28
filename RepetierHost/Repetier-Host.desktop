@@ -1,0 +1,44 @@
+[Desktop Entry]
+Name=Repetier-Host
+Exec=mono RepetierHost.exe -home /rh/linux/RepetierHost&
+Type=Application
+StartupNotify=true
+Comment=Repetier-Host 3d printer host software
+Path=/rh/linux/RepetierHost
+Icon=/rh/linux/RepetierHost/repetier-logo.png
+Comment[en_US.UTF-8]=Repetier Host
+Name[en_US]=Repetier
+
+[Desktop Entry]
+Name=Repetier-Host
+Exec=mono RepetierHost.exe -home /rh/linux/RepetierHost&
+Type=Application
+StartupNotify=true
+Comment=Repetier-Host 3d printer host software
+Path=/rh/linux/RepetierHost
+Icon=/rh/linux/RepetierHost/repetier-logo.png
+Comment[en_US.UTF-8]=Repetier Host
+Name[en_US]=Repetier-Host
+
+[Desktop Entry]
+Name=Repetier-Host
+Exec=mono RepetierHost.exe -home /home/mchro/projects/RepetierHost-1.0.3&
+Type=Application
+StartupNotify=true
+Comment=Repetier-Host 3d printer host software
+Path=/home/mchro/projects/RepetierHost-1.0.3
+Icon=/home/mchro/projects/RepetierHost-1.0.3/repetier-logo.png
+Comment[en_US.UTF-8]=Repetier Host
+Name[en_US]=Repetier-Host
+
+[Desktop Entry]
+Name=Repetier-Host
+Exec=mono RepetierHost.exe -home /home/mchro/projects/lulzbot-taz/hal9k-3dprint.bzr/RepetierHost&
+Type=Application
+StartupNotify=true
+Comment=Repetier-Host 3d printer host software
+Path=/home/mchro/projects/lulzbot-taz/hal9k-3dprint.bzr/RepetierHost
+Icon=/home/mchro/projects/lulzbot-taz/hal9k-3dprint.bzr/RepetierHost/repetier-logo.png
+Comment[en_US.UTF-8]=Repetier Host
+Name[en_US]=Repetier-Host
+

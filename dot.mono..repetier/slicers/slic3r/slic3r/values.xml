@@ -1,0 +1,10 @@
+<values>
+<value name="showPlater"
+type="int">0</value>
+<value name="configDir"
+type="string"/>
+<value name="executable"
+type="string"/>
+<value name="version"
+type="int">2</value>
+</values>

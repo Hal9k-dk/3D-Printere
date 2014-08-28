@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /home/mchro/projects/lulzbot-taz/hal9k-3dprint.bzr/RepetierHost
+mono RepetierHost.exe -home /home/mchro/projects/lulzbot-taz/hal9k-3dprint.bzr/RepetierHost&

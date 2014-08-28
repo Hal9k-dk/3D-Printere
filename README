@@ -1,0 +1,7 @@
+Hal9k 3D Printer setup (PrintrBot Jr)
+=====================================
+
+To setup, symlink some directories:
+ln -s ~/hal9k-3dprint.bzr/dot.Slic3r ~/.Slic3r
+ln -s ~/hal9k-3dprint.bzr/RepetierHost/ ~/
+ln -s ~/hal9k-3dprint.bzr/dot.mono..repetier/ ~/.mono/registry/CurrentUser/software/repetier
