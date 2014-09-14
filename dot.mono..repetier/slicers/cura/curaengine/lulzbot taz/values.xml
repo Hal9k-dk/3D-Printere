@@ -2,19 +2,19 @@
 <value name="speed"
 type="string">50</value>
 <value name="quality"
-type="string"/>
+type="string">xnJ0kXbd8592jc0VdJaHmLmn4S1Yyn58</value>
 <value name="fillDensity"
-type="string">20</value>
+type="string">40</value>
 <value name="adhesionType"
 type="int">0</value>
-<value name="cooling"
-type="int">1</value>
+<value name="print"
+type="string">LulzBot TAZ</value>
 <value name="version"
 type="int">1</value>
 <value name="supportType"
 type="int">0</value>
 <value name="filament0"
 type="string"/>
-<value name="print"
-type="string"/>
+<value name="cooling"
+type="int">1</value>
 </values>
