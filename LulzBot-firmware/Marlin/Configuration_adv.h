@@ -65,10 +65,10 @@
 //and turn off after the set amount of seconds from last driver being disabled again
 #define CASEFAN_PIN 2 //Pin used for the fan to cool controller (-1 to disable)
 #define CASEFAN_SECS 15 //How many seconds, after all motors were disabled, the fan should run before going back to idle speed.
-#define CASEFAN_SPEED_FULL 128  // Full speed for when motor are active
-#define CASEFAN_SPEED_IDLE 128 	// Idle speed for when the motor have been inactive	
+#define CASEFAN_SPEED_FULL 100  // Full speed for when motor are active
+#define CASEFAN_SPEED_IDLE 70 	// Idle speed for when the motor have been inactive	
 #define CASEFAN_SPEED_MAX 128  	// Maximum limit for the fan speed so it does not burn out. Use 128 for 12v fans with 24V Power Supplies
-#define CASEFAN_SPEED_MIN 128	// Minimum limit for the fan speed where it will start to spin from a stop without a push.
+#define CASEFAN_SPEED_MIN 70	// Minimum limit for the fan speed where it will start to spin from a stop without a push.
 
 // When first starting the main fan, run it at full speed for the
 // given number of milliseconds.  This gets the fan spinning reliably
