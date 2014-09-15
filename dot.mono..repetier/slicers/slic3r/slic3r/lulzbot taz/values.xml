@@ -1,16 +1,16 @@
 <values>
 <value name="layerHeight"
-type="string">0.22</value>
+type="string">0.28</value>
 <value name="fillPattern"
-type="string">rectilinear</value>
+type="string">line</value>
+<value name="cooling"
+type="int">1</value>
 <value name="solidFillPatern"
 type="string">rectilinear</value>
 <value name="fillDensity"
 type="string">0.4</value>
 <value name="fillAngle"
 type="string">45</value>
-<value name="print"
-type="string">TAZ PLA medium</value>
 <value name="supportMaterial"
 type="int">0</value>
 <value name="version"
@@ -20,11 +20,11 @@ type="int">1</value>
 <value name="printer"
 type="string">LulzBot TAZ</value>
 <value name="filament1"
-type="string">TAZ PLA (newcool)</value>
+type="string">TAZ PLA</value>
 <value name="filament2"
 type="string">PrintrBot ABS hvid</value>
 <value name="filament3"
 type="string">PrintrBot ABS hvid</value>
-<value name="cooling"
-type="int">1</value>
+<value name="print"
+type="string">TAZ PLA fast</value>
 </values>
