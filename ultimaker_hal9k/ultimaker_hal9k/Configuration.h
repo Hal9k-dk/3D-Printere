@@ -181,9 +181,14 @@ Here are some standard links for getting your machine calibrated:
 
 // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 // Ultimaker
-    #define  DEFAULT_Kp 16.49
-    #define  DEFAULT_Ki 0.80
-    #define  DEFAULT_Kd 85.11
+
+    #define  DEFAULT_Kp 15.25
+    #define  DEFAULT_Ki 0.86
+    #define  DEFAULT_Kd 67.45
+
+    //#define  DEFAULT_Kp 16.49
+    //#define  DEFAULT_Ki 0.80
+    //#define  DEFAULT_Kd 85.11
 
 // MakerGear
 //    #define  DEFAULT_Kp 7.0
